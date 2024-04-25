@@ -292,7 +292,7 @@ if __name__ == '__main__':
     
     # important
     # write your file name here which contains link only docx file  
-    file_name = 'selenium_testing\link_file.docx'
+    file_name = 'link_file.docx'
     
     links_name = getText(file_name)
     
